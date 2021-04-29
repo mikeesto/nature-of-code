@@ -21,5 +21,6 @@ function draw() {
     }
     yoff += inc;
   }
+  // noiseDetail(8, 0.7); // https://p5js.org/reference/#/p5/noiseDetail
   updatePixels();
 }
